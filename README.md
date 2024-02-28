@@ -1,6 +1,4 @@
 # Hotel-Booking
-
-
 #Introduction
 
 The Hotel Booking System allows users to browse through a curated selection of hotels, view detailed information about each hotel, 
