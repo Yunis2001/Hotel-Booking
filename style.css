@@ -8,10 +8,12 @@ body{
   font-family: 'Outfit';
 }
 
-.header .content .logo{
+/* .header .content .logo{
   display: flex;
+} */
+.header img{
   padding: 10px;
-
+  margin: 5px;
 }
 .header .content .navlinks{
   display: flex;
