@@ -10,6 +10,7 @@ body{
 }
 .header .content .logo{
   display: flex;
+  justify-content: center;
 } 
 .header img{
   padding: 10px;
