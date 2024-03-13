@@ -46,6 +46,9 @@ body{
   margin: 30px;
   transform: 0.5s;
 }
+.header ul li a:hover{
+  color:#7fc142;
+}
 .material-symbols-outlined{
   margin: 30px;
 }
